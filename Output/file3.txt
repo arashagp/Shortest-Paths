@@ -1,0 +1,12 @@
+MN 16
+MT 7
+MU 3
+NM 4
+NT 4
+NU 7
+TM 13
+TN 9
+TU 8
+UM 21
+UN 17
+UT 8

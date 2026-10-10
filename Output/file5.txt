@@ -1,0 +1,12 @@
+GJ 5
+GV 3
+GY 13
+JG 4
+JV 6
+JY 8
+VG 13
+VJ 9
+VY 17
+YG 4
+YJ 4
+YV 1

@@ -1,0 +1,20 @@
+19
+VS 8
+VY 8
+RS 3
+VR 2
+YR 3
+VL 4
+SR 6
+LV 4
+RY 1
+YL 3
+SV 9
+LY 8
+SY 8
+SL 6
+RV 7
+LS 6
+YS 3
+LR 9
+YV 6

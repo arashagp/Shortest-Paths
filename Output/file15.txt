@@ -1,0 +1,12 @@
+FQ 7
+FW 2
+FZ 3
+QF 12
+QW 8
+QZ 8
+WF 4
+WQ 5
+WZ 1
+ZF 21
+ZQ 9
+ZW 17

@@ -1,0 +1,12 @@
+HN 5
+HR 5
+HW 9
+NH 3
+NR 8
+NW 12
+RH 7
+RN 9
+RW 9
+WH 5
+WN 2
+WR 10

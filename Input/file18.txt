@@ -1,0 +1,14 @@
+13
+QZ 3
+BC 7
+ZB 3
+BZ 2
+XB 6
+QX 2
+CX 2
+ZQ 9
+BQ 5
+CB 7
+QC 8
+XZ 1
+QB 5

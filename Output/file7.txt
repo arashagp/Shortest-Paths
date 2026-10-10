@@ -1,0 +1,6 @@
+HJ 9
+HL 6
+JH 1
+JL 7
+LH 5
+LJ 14

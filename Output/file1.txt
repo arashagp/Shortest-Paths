@@ -1,0 +1,13 @@
+GN 5
+GV 4
+GW 3
+KG 13
+KN 5
+KV 4
+KW 16
+VG 9
+VN 1
+VW 12
+WG 1
+WN 2
+WV 1

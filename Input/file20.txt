@@ -1,0 +1,11 @@
+10
+LW 7
+IW 6
+LM 2
+LI 8
+WI 2
+MW 3
+WM 4
+IM 6
+IL 8
+MI 4

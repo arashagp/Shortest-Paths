@@ -1,0 +1,9 @@
+EQ 4
+EX 8
+EY 1
+QX 4
+QY 1
+XQ 7
+XY 8
+YQ 8
+YX 12

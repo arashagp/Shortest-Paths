@@ -1,0 +1,11 @@
+10
+WM 9
+WZ 6
+ZW 8
+ZQ 1
+MQ 7
+WQ 2
+QW 3
+MW 3
+MZ 5
+ZM 4

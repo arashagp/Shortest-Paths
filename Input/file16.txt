@@ -1,0 +1,19 @@
+18
+NC 9
+TD 3
+SC 6
+DT 6
+ST 3
+CS 6
+DC 2
+SD 9
+CD 4
+ND 7
+TN 5
+CT 1
+TC 9
+TS 6
+CN 5
+NS 2
+NT 8
+DS 9

@@ -1,0 +1,16 @@
+15
+WX 8
+XF 4
+XW 4
+FW 6
+EX 2
+XP 9
+WF 2
+WE 2
+PE 8
+FP 8
+EF 5
+PF 9
+PX 4
+EW 6
+WP 2

@@ -1,0 +1,15 @@
+14
+TM 4
+VE 9
+VM 6
+QV 6
+ET 7
+MQ 2
+ME 9
+VT 3
+QE 9
+TQ 4
+QT 9
+EQ 6
+MV 6
+EM 5

@@ -1,0 +1,8 @@
+7
+KN 7
+VG 9
+VN 1
+WV 1
+WG 1
+KV 4
+GW 3

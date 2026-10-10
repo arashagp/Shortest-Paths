@@ -1,0 +1,10 @@
+9
+IN 7
+QN 2
+QV 7
+NV 4
+NQ 8
+IV 4
+QI 7
+VQ 5
+VI 7

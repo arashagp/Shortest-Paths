@@ -1,0 +1,14 @@
+13
+RQ 6
+EQ 1
+PR 2
+QP 9
+RP 6
+QR 6
+YP 5
+YQ 2
+RY 4
+QE 4
+EP 3
+ER 3
+EY 5

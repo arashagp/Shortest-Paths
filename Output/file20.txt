@@ -1,0 +1,12 @@
+IL 8
+IM 6
+IW 6
+LI 6
+LM 2
+LW 5
+MI 4
+ML 12
+MW 3
+WI 2
+WL 10
+WM 4

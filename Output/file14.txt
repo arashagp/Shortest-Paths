@@ -1,0 +1,6 @@
+IQ 4
+IY 4
+QI 16
+QY 9
+YI 7
+YQ 5

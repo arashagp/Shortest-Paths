@@ -1,0 +1,8 @@
+7
+UT 8
+TU 8
+NT 4
+TN 9
+NM 4
+MT 7
+MU 3

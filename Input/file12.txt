@@ -1,0 +1,20 @@
+19
+MD 8
+LX 5
+MX 8
+DQ 1
+DX 2
+XL 6
+ML 1
+DM 8
+LQ 2
+LD 4
+QL 8
+XD 5
+QX 9
+DL 1
+LM 3
+XQ 9
+QD 2
+MQ 5
+QM 4

@@ -1,0 +1,10 @@
+9
+NH 3
+RH 7
+HW 9
+WN 2
+HR 5
+NR 9
+RW 9
+HN 5
+RN 9

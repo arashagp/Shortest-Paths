@@ -1,0 +1,12 @@
+MQ 5
+MW 3
+MZ 5
+QM 12
+QW 3
+QZ 9
+WM 9
+WQ 2
+WZ 6
+ZM 4
+ZQ 1
+ZW 4

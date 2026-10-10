@@ -1,0 +1,10 @@
+9
+BC 8
+DM 7
+MB 6
+CB 3
+DC 1
+BM 5
+MD 1
+CM 2
+DB 7
